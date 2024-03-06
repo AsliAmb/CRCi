@@ -1,11 +1,11 @@
 # Introduction:
 
-CRCi is a computational framework that incorporates two multinomial logistic regression models, for cohort and single sample-based subtype predictions, that are based on PSI (percent spliced-in) values from 29 exon-skipping events. 
+CRCi is a computational framework that incorporates two multinomial logistic regression models, for cohort and single sample-based Consensus Molecular Subtype predictions, that are based on PSI (percent spliced-in) values from 29 exon-skipping events. 
 
 
 # Installation:  
 
-Clone the CRCi_models repository and change current directory to CRCi_models/src
+Clone the CRCi repository and change current directory to CRCi/src
 
 In your terminal run the following command to build and install the package:  
 ```python setup.py install```
