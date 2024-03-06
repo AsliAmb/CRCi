@@ -5,7 +5,7 @@ CRCi is a computational framework that incorporates two multinomial logistic reg
 
 # Installation:  
 
-Clone the CRCi repository and change current directory to CRCi/src
+Clone the CRCi_models repository and change current directory to CRCi_models/src
 
 In your terminal run the following command to build and install the package:  
 ```python setup.py install```
